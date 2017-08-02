@@ -1,0 +1,26 @@
+body{
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+.jumbotron{
+    background:#9A58CB;
+    height:300px;
+}
+.jumbotron img{
+    width:30%;
+    float:left;
+    max-height:160px;
+}
+
+.btn-default {
+  background-color: #9A58CB;
+}
+
+/*gwc {
+  height:50px
+}
+
+todo {
+  width:200px
+}*/
